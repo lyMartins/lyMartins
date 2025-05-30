@@ -1,8 +1,9 @@
 # 💫 Sobre Mim:
-🔭 Atualmente trabalhando em<br>
+🔭 Atualmente trabalhando em:<br>
 Projetos de otimização em Java e conceitos de arte visual.<br>:satellite:    procurando colaborar em<br>Projetos open-source que envolvam fintechs, automações úteis ou interfaces com foco em experiência do usuário.<br>🤝 Em processo de aprendizado em<br>Refinar boas práticas em Java e entender melhor arquitetura de sistemas robustos.<br>
 🌱 Atualmente aprendendo<br>
-Algoritmos com foco em entrevistas técnicas, e um pouco de frontend para dar vida aos meus projetos visuais.<br>💬 Sinta-se livre para discutirmos sobre <br>Fluxo de criação visual, métodos de estudo, música e mercado financeiro.<br>
+Algoritmos com foco em entrevistas técnicas, e um pouco de frontend para dar vida aos meus projetos visuais.<br>💬 Curto falar sobre <br>Fluxo de criação visual, métodos de estudo, música e mercado financeiro.<br>
+📍 Fortaleza - CE
 
 
 # 💻 Tech Stack:
