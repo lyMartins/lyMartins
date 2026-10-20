@@ -35,13 +35,6 @@
 - TÍTULO DO PAPER 2, CNSM 2026. DOI: ...
 -->
 
-### Projetos
-
-- [banco-master-osint](https://github.com/lyMartins/banco-master-osint)
-- [grapho-security-mestrado-doutorado](https://github.com/lyMartins/grapho-security-mestrado-doutorado)
-- [Estudo-Jammer-RF-BT](https://github.com/lyMartins/Estudo-Jammer-RF-BT)
-- [Analise-Database-Cybersec](https://github.com/lyMartins/Analise-Database-Cybersec)
-- [-RIS-LLM-UNIFOR](https://github.com/lyMartins/-RIS-LLM-UNIFOR)
 
 <!--
 ### Contato
