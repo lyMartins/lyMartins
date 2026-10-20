@@ -44,6 +44,8 @@
 - [Analise-Database-Cybersec](https://github.com/lyMartins/Analise-Database-Cybersec)
 - [-RIS-LLM-UNIFOR](https://github.com/lyMartins/-RIS-LLM-UNIFOR)
 
+![9nlGN0](https://github.com/user-attachments/assets/fefcc40f-b2e2-4663-88ef-ff90d85dff60)
+
 <!--
 ### Contato
 
