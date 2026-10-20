@@ -1,42 +1,54 @@
-<h1 align="center">Olá, eu sou Carlyle 👋</h1>
+<h1 align="center">Carlyle Martins</h1>
 <p align="center">
-  Estudante de Engenharia da Computação · Fortaleza - CE<br/>
-  Fascinado por tecnologia, economia e arte
+  Engenharia da Computação · UNIFOR · Fortaleza, CE<br/>
+  Cibersegurança e pesquisa acadêmica
 </p>
 
 ---
 
 ### 💫 Sobre mim
 
-- 🔭 **Trabalhando em:** projetos de otimização em Java e conceitos de arte visual
-- 🌱 **Aprendendo:** algoritmos com foco em entrevistas técnicas e um pouco de frontend para dar vida aos meus projetos visuais
-- 🤝 **Melhorando:** boas práticas em Java e arquitetura de sistemas robustos
-- 📡 **Quero colaborar em:** projetos open-source de fintechs, automações úteis ou interfaces com foco em experiência do usuário
-- 💬 **Curto falar sobre:** fluxo de criação visual, métodos de estudo, música e mercado financeiro
+- 🔭 **Trabalhando em:** pesquisa em cibersegurança no Synapse Lab, onde sou co-líder, e no projeto de SOC da ETICE
+- 🌱 **Aprendendo:** segurança ofensiva e inteligência de ameaças
+- 🤝 **Melhorando:** C, C++ e automação com Shell Script
+- 📡 **Quero colaborar em:** ferramentas open-source de segurança e projetos que possam virar pesquisa
+- 💬 **Curto falar sobre:** segurança, métodos de estudo, música e mercado financeiro
 
-### 💻 Tech Stack
+### Linguagens e ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 📊 GitHub Stats
+<!--
+### Publicações
+
+- TÍTULO DO PAPER 1, CNSM 2026. DOI: ...
+- TÍTULO DO PAPER 2, CNSM 2026. DOI: ...
+-->
+
+### Projetos
+
+- [banco-master-osint](https://github.com/lyMartins/banco-master-osint)
+- [grapho-security-mestrado-doutorado](https://github.com/lyMartins/grapho-security-mestrado-doutorado)
+- [Estudo-Jammer-RF-BT](https://github.com/lyMartins/Estudo-Jammer-RF-BT)
+- [Analise-Database-Cybersec](https://github.com/lyMartins/Analise-Database-Cybersec)
+- [-RIS-LLM-UNIFOR](https://github.com/lyMartins/-RIS-LLM-UNIFOR)
+
+<!--
+### Contato
+
+EMAIL / LINKEDIN
+-->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lyMartins&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyMartins&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Linguagens mais usadas"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lyMartins&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lyMartins&icon=2&color=11" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=lyMartins&label=visitas&color=7aa2f7&style=flat" alt="Visitas"/>
 </p>
