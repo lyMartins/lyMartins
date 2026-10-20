@@ -1,4 +1,5 @@
-<h1 align="center">Carlyle Martins</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03060a,100:5b8fb9&height=180&section=header&text=Carlyle%20Martins&fontSize=42&fontColor=D7EEF5&fontAlignY=38&desc=Ciberseguran%C3%A7a%20%C2%B7%20Pesquisa&descAlignY=58&descSize=16" width="100%" alt="Carlyle Martins"/>
+
 <p align="center">
   Engenharia da Computação · UNIFOR · Fortaleza, CE<br/>
   Cibersegurança e pesquisa acadêmica
@@ -35,6 +36,13 @@
 - TÍTULO DO PAPER 2, CNSM 2026. DOI: ...
 -->
 
+### Projetos
+
+- [banco-master-osint](https://github.com/lyMartins/banco-master-osint)
+- [grapho-security-mestrado-doutorado](https://github.com/lyMartins/grapho-security-mestrado-doutorado)
+- [Estudo-Jammer-RF-BT](https://github.com/lyMartins/Estudo-Jammer-RF-BT)
+- [Analise-Database-Cybersec](https://github.com/lyMartins/Analise-Database-Cybersec)
+- [-RIS-LLM-UNIFOR](https://github.com/lyMartins/-RIS-LLM-UNIFOR)
 
 <!--
 ### Contato
@@ -42,6 +50,12 @@
 EMAIL / LINKEDIN
 -->
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/lyMartins?pet-id=900400665156078796" width="1000" height="120" alt="Shiba"/>
+</a>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lyMartins&label=visitas&color=7aa2f7&style=flat" alt="Visitas"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8fb9,100:03060a&height=110&section=footer" width="100%"/>
