@@ -1,21 +1,21 @@
-<h1 align="center">Olá, eu sou Carlyle Martins 👋</h1>
+<h1 align="center">Welcome, I'm Carlyle!</h1>
 
 <p align="center">
-  <b>Engenharia da Computação</b> · Universidade de Fortaleza (UNIFOR)<br/>
-  <sub>📍 Fortaleza, CE · Cibersegurança e pesquisa acadêmica</sub>
+  <b>Computer Engineering</b> · University of Fortaleza (UNIFOR)<br/>
+  <sub>📍 Fortaleza, Brazil · Cybersecurity and academic research</sub>
 </p>
 
 ---
 
-## 💫 Sobre mim
+## 💫 About me
 
-- 🔭 **Trabalhando em:** pesquisa em cibersegurança no Synapse Lab, onde sou co-líder, e no projeto de SOC da ETICE
-- 🌱 **Aprendendo:** segurança ofensiva e inteligência de ameaças
-- 🤝 **Melhorando:** C, C++ e automação com Shell Script
-- 📡 **Quero colaborar em:** ferramentas open-source de segurança e projetos que possam virar pesquisa
-- 💬 **Curto falar sobre:** segurança, métodos de estudo, música e mercado financeiro
+- 🔭 **Working on:** cybersecurity research at Synapse Lab, where I'm co-lead, and on the ETICE SOC project
+- 🌱 **Learning:** offensive security and threat intelligence
+- 🤝 **Improving:** C, C++ and Shell Script automation
+- 📡 **Looking to collaborate on:** open-source security tools and projects that could turn into research
+- 💬 **Ask me about:** security, study methods, music and financial markets
 
-## 💻 Linguagens e ferramentas
+## 💻 Languages and tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -31,15 +31,15 @@
 </p>
 
 <!--
-## 📄 Publicações
+## 📄 Publications
 
-- TÍTULO DO PAPER 1, CNSM 2026. DOI: ...
-- TÍTULO DO PAPER 2, CNSM 2026. DOI: ...
+- PAPER TITLE 1, CNSM 2026. DOI: ...
+- PAPER TITLE 2, CNSM 2026. DOI: ...
 -->
 
-## 🛠️ Projetos
+## 🛠️ Projects
 
-| Projeto | Linguagem |
+| Project | Language |
 |---|---|
 | [banco-master-osint](https://github.com/lyMartins/banco-master-osint) | Jupyter Notebook |
 | [grapho-security-mestrado-doutorado](https://github.com/lyMartins/grapho-security-mestrado-doutorado) | Jupyter Notebook |
@@ -48,7 +48,7 @@
 | [-RIS-LLM-UNIFOR](https://github.com/lyMartins/-RIS-LLM-UNIFOR) | Python |
 
 <!--
-## 📫 Contato
+## 📫 Contact
 
 EMAIL / LINKEDIN
 -->
@@ -62,5 +62,5 @@ EMAIL / LINKEDIN
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyMartins&label=visitas&color=5b8fb9&style=flat-square" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=lyMartins&label=visitors&color=5b8fb9&style=flat-square" alt="Visitors"/>
 </p>
